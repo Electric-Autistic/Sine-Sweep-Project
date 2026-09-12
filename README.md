@@ -21,6 +21,7 @@ Current presets included:
 | Audio Technica | EM7x | `Audio Technica/Audio Technica EM7x.txt` |
 | JBL | TUNE310C | `JBL/JBL TUNE310C.txt` |
 | Motorola | Moto Buds | `Motorola/moto buds.txt` |
+| Sony | MDR-ZX100 | `Sony/Sony MDR ZX100.txt` |
 
 ## Quick start (Equalizer APO)
 
