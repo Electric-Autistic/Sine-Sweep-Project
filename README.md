@@ -1,5 +1,7 @@
 # Sine-Sweep-Project
 
+<img src="Electri_Autismic.png" width="256">
+
 Collection of EQ APO files ear tuned using Sine Sweep technique and cleaned up frequencies.
 
 This repository is for headphone and earbud enthusiasts who like to chase better sound—especially for less common or older models that are hard to find good presets for.
